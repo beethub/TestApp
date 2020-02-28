@@ -2,7 +2,7 @@ apiVersion: skaffold/v1beta2
 kind: Config
 build:
   artifacts:
-  - image: app-cluster-268317/testapp
+  - image: app-cluster-268317/test-app
     context: .
     docker: {}
   tagPolicy:

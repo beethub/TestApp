@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.beethub</groupId>
-	<artifactId>TestApp</artifactId>
+	<artifactId>test-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>TestApp</name>
+	<name>test-app</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
